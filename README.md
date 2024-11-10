@@ -1,4 +1,5 @@
-# Classification with XGBoost and Feature Engineering through Clustering
+# Customer Churn
+## Classification with XGBoost and Feature Engineering through Clustering
 
 This project addresses a binary classification problem with imbalanced classes. The dataset was analyzed and modeled using XGBoost, with additional feature engineering through clustering to enhance model performance.
 
